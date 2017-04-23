@@ -1,0 +1,11 @@
+= Hacker.org: Invisible Ink 
+
+== Descripción 
+Estando registrado en http://www.hacker.org[Hacker.org] +
+Este hhttp://www.hacker.org/challenge/chal.php?id=11[reto] de web nos pide una contraseña
+
+== Solución 
+De acuerdo con el nombre se resalta la linea y se encuentra la respuesta
+....
+blind
+....

@@ -1,0 +1,11 @@
+= Hacker.org: Visible Ink
+
+== Descripción 
+Estando registrado en http://www.hacker.org[Hacker.org] +
+Este http://www.hacker.org/challenge/chal.php?id=10[reto] de web nos pide una contraseña
+
+== Solución 
+De acuerdo con el nombre se resalta la linea y se encuentra la respuesta
+....
+squint
+....
