@@ -18,7 +18,7 @@ public class sum_digits {
 				//System.out.println(digits[i]);
 				sum = sum + Integer.valueOf(digits[i]);
 			}
-			System.out.println(sum);
+
 		}
 	}
 }

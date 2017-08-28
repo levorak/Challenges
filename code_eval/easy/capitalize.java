@@ -19,7 +19,7 @@ public class capitalize {
 				letters[0]=Character.toUpperCase(letters[0]);
 				System.out.print(String.valueOf(letters)+" ");	
       
-            }
+           		}
 		System.out.println("");			
         }
     }
